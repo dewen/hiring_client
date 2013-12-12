@@ -1,0 +1,6 @@
+set fart bar
+get foo
+set baz bat
+list
+delete fart
+get baz

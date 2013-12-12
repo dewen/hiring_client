@@ -1,0 +1,7 @@
+auth test testpw
+set winnie bar
+get MyKey_1382032259
+set baz bat
+list
+delete baz
+get baz
